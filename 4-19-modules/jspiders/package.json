@@ -1,0 +1,10 @@
+{
+  "name": "jspiders",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^4.6.0",
+    "nodemailer": "^6.5.0"
+  }
+}
