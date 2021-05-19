@@ -39,7 +39,7 @@ let server = http.createServer((req, res) => {
 
 let port = 5000;
 
-server.listen(port, (err) => {
+server.listen(port, (err) =>   {
   if (err) throw err;
   console.log("this is a node js  static API running on port no" + port);
 });
